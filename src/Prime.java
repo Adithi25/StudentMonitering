@@ -3,7 +3,7 @@ import java.util.Scanner;
 //Write a program to accept a number and determine whether it is a prime number or not.
 
 public class Prime {
-
+//hello 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		System.out.println("Enter the number : ");
